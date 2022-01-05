@@ -1,0 +1,40 @@
+body{
+margin:0px 70px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+ 
+
+}
+.the{
+    transform: rotate(-90deg);
+    font-family: 'Montserrat', sans-serif;
+    font-size:32px;
+    font-weight:500;
+    padding-right:0px;
+    position:relative;
+    right:-30px
+    
+   
+}
+.siren{
+    font-family:'Montserrat',sans-serif;
+    font-weight: bold;
+    font-size:71px;
+    
+
+}
+.navstyle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:500;
+    font-size:18px;
+    display:flex;
+    justify-content:space-evenly;
+
+}
+.navitem{
+    text-decoration-line:none;
+    color:#000000;
+    
+}

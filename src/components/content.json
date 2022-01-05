@@ -1,0 +1,61 @@
+ [  {
+     "pic":"https://media.istockphoto.com/photos/walkway-through-the-misty-park-in-autumn-picture-id811010160?b=1&k=20&m=811010160&s=170667a&w=0&h=VXYPqR2k1dc61W42IWRN5dviKthMXguQ9NpxuMlkb1c=",
+    "head":"Joshua Tree Overnight Adventure",
+    "details":"Gujrat is vastly underated an its a mystery to us why the region isn't more well-known as a tourist destination. It has a plethora of temples and palaces",
+    "type":"Travel",
+    "date":"/ August 21 2017"
+
+},{
+    "pic":"https://media.istockphoto.com/photos/walkway-through-the-misty-park-in-autumn-picture-id811010160?b=1&k=20&m=811010160&s=170667a&w=0&h=VXYPqR2k1dc61W42IWRN5dviKthMXguQ9NpxuMlkb1c=",
+    
+    "head":"Joshua Tree Overnight Adventure",
+    "details":"Gujrat is vastly underated an its a mystery to us why the region isn't more well-known as a tourist destination. It has a plethora of temples and palaces",
+    "type":"Travel",
+    "date":"/ August 21 2017"
+},{
+    "pic":"https://media.istockphoto.com/photos/walkway-through-the-misty-park-in-autumn-picture-id811010160?b=1&k=20&m=811010160&s=170667a&w=0&h=VXYPqR2k1dc61W42IWRN5dviKthMXguQ9NpxuMlkb1c=",
+    
+    "head":"Joshua Tree Overnight Adventure",
+    "details":"Gujrat is vastly underated an its a mystery to us why the region isn't more well-known as a tourist destination. It has a plethora of temples and palaces",
+    "type":"Travel",
+    "date":"/ August 21 2017"
+},
+{   
+        "id":1,
+        "img":"https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTExfHx0cmVlJTIwZGFya3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "heading":"Catch waves with an advanture guide",
+        "description":"Gujrat is vastly underated an its a mystery to us why the region isn't more well ",
+        "type1":"Travel",
+    "date1":"/ August 21 2017"
+    },
+    {
+        "id":2,
+        "img":"https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTExfHx0cmVlJTIwZGFya3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+
+        "heading":"Catch waves with an advanture guide",
+        "description":"Gujrat is vastly underated an its a mystery to us why the region isn't more well ",
+        "type1":"Travel",
+    "date1":"/ August 21 2017"
+    }
+      ,  
+    {
+        "id":3,
+        "img":"https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTExfHx0cmVlJTIwZGFya3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+
+        "heading":"Catch waves with an advanture guide",
+        "description":"Gujrat is vastly underated an its a mystery to us why the region isn't more well ",
+        "type1":"Travel",
+    "date1":"/ August 21 2017"
+      
+    },
+    {
+        "id":4,
+        "img":"https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTExfHx0cmVlJTIwZGFya3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+
+        "heading":"Catch waves with an advanture guide",
+        "description":"Gujrat is vastly underated an its a mystery to us why the region isn't more well ",
+        "type1":"Travel",
+    "date1":"/ August 21 2017"
+       
+    }
+]
